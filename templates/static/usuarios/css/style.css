@@ -1,0 +1,10 @@
+body{
+
+    background-image: url('/static/geral/img/fundo.png');
+    background-size: cover;
+
+}
+
+p{
+    color: var(--light-color);
+}
